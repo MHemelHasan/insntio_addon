@@ -1,0 +1,7 @@
+.ins-checkout-layout .ins-content .ins-cart-btns a.view-cart{
+    display: none !important;
+}
+
+.ins-cart-item-quantity button{
+    display: none !important;
+}
